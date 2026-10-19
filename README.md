@@ -9,4 +9,4 @@ My research focuses on cross-sectional stock ranking, factor selection, and LLM-
 - **FactorNow** — Forecasting factor effectiveness under delayed feedback.
 - **RC-mRMR** — Reference-conditioned selection of LLM-generated factors.
 
-[Personal Website](https://lijinlus.github.io)
+
