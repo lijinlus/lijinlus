@@ -2,7 +2,7 @@
 
 PhD student at **Fudan University**, exploring **Large Language Models (LLMs)** and **Machine Learning for Intelligent Decision-Making**.
 
-My research focuses on **information selection**, **predictive modeling**, and **learning from delayed feedback**, with applications in quantitative finance.
+My research focuses on **information selection**, **predictive modeling**, and **learning from delayed feedback**, using quantitative finance as a testbed.
 
 ### Selected Projects
 
